@@ -10,7 +10,7 @@ public class IndexController {
 
     @GetMapping("/")
     public String showMessage(){
-return "Bienvenido a la REST API";
+return "Bienvenido a la REST APII";
     }
 
 }
